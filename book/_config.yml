@@ -1,0 +1,13 @@
+title: "Aerospace System Design"
+author: "Leifur Leifsson (leifur[at]purdue.edu)"
+copyright: "2024"
+
+execute:
+  execute_notebooks: "off"
+
+repository:
+  url: "https://github.com/ComputationalDesignLab/aerospace-system-design"
+  path_to_book: "book"
+
+launch_buttons:
+  notebook_interface: "jupyterlab"
